@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-https://Anwaar12.github.io
+https://anwaar12.github.io/
 
 > Description the project.
 
